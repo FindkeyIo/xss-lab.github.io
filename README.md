@@ -7,3 +7,5 @@ solve this labe and submit this bug report
 
 
 :~ made by @ayush0x01
+
+                    buymeacoffee.com/ayush0x01                
