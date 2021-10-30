@@ -2,5 +2,6 @@
 this is a client side xss lab 
 
 to install this :
-                 git clone 
+                 git clone https://github.com/FindkeyIo/xss-lab.git
+                 
                  
