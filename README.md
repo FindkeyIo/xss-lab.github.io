@@ -1,9 +1,9 @@
 # xss-lab
 this is a client side xss but in real world scenario it can impact servers data bases 
 
-access this lab here :   https://findkeyio.github.io/xss-lab/index.html
+access this lab here :  https://asecurityinfo.github.io/xss-lab/ 
 
-solve this labe and submit this bug report : ayush0x01@wearehackerone.com                                      
+solve this labe and submit this bug report : support@asecurity.in                                    
 
 
 :~ made by @ayush0x01
