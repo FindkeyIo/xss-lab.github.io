@@ -6,7 +6,7 @@ access this lab here :  https://asecurityinfo.github.io/xss-lab/
 solve this labe and submit this bug report : support@asecurity.in                                    
 
 
-:~ made by @ayush0x01
+:~ made by Ayush khatkar
        
 now you can buy me a book!
 
